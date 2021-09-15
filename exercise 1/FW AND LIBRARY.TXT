@@ -1,0 +1,7 @@
+Define terms "Framework" and "Library" in programming context
+
+---
+
+Framework = a certain method or procedure which is used to build and integrate software 
+
+Library = collection of information or resources
