@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Roku Express | Easy High Definition (HD) Streaming Media Player",
+      "manufacturer": "by Roku",
+      "price": 24.00,
+      "image": "item_1.png"
+    },
+    {
+      "id": 2,
+      "name": "HP 63 | 2 Ink Cartridges | Black, Tri-color | F6U61AN, F6U62AN",
+      "manufacturer": "by HP",
+      "price": 45.89,
+      "image": "item_2.png"
+    },
+    {
+      "id": 3,
+      "name": "Samsung 128GB 100MB/s (U3) MicroSDXC Evo Select Memory Card with Adapter (MB-ME128GA/AM)",
+      "manufacturer": "by Samsung",
+      "price": 19.99,
+      "image": "item_3.png"
+    },
+    {
+      "id": 4,
+      "name": "HP Officejet 3830 All-in-One Wireless Printer, HP Instant Ink & Amazon Dash Replenishment ready (K7V40A)",
+      "manufacturer": "by HP",
+      "price": 99.89,
+      "image": "item_4.png"
+    },
+    {
+      "id": 5,
+      "name": "Acer Aspire 5 Slim Laptop 15.6 Full HD IPS Display, AMD Ryzen 3 3200u/ Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L",
+      "manufacturer": "by Acer",
+      "price": 309.99,
+      "image": "item_5.png"
+    },
+    {
+      "id": 6,
+      "name": "Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Voice Remote with TV Power and Volume",
+      "manufacturer": "by Roku",
+      "price": 49.95,
+      "image": "item_6.png"
+    },
+    {
+      "id": 7,
+      "name": "Western Digital 2TB Elements Portable External Hard Drive - USB 3.0 - WDBU6Y0020BBK-WESN",
+      "manufacturer": "by Western Digital",
+      "price": 59.99,
+      "image": "item_7.png"
+    },
+    {
+      "id": 8,
+      "name": "Acer Predator Helios 300 Gaming Laptop PC, 15.6 Full HD 144Hz 3ms IPS Display, Intel i7-9750H, GTX 1660 Ti 6GB, 16GB DDR4, 256GB PCIe NVMe SSD, Backlit Keyboard, PH315-52-78VL",
+      "manufacturer": "by Acer",
+      "price": 1099.00,
+      "image": "item_8.png"
+    },
+    {
+      "id": 9,
+      "name": "TP-Link AC1750 Smart WiFi Router - Dual Band Gigabit Wireless Internet Router for Home, Works with Alexa, VPN Server, Parental Control&QoS(Archer A7)",
+      "manufacturer": "by TP-Link",
+      "price": 57.99,
+      "image": "item_9.png"
+    }
+  ]
+}
